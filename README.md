@@ -7,7 +7,7 @@
 
 ### 🌱 I’m currently learning ...
 - Game Dev and Video Editor
-- Unity 3D (UniRx lover)
+- Unity 3D (UniRx lover but move to UniTask)
 - Editing art resource (Beginner level)
 - Python, Java, Node.js
 
