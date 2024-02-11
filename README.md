@@ -3,13 +3,13 @@
 [![dhfmzk's github stats](https://github-readme-stats.vercel.app/api?username=dhfmzk&show_icons=true&hide_border=true)](https://github.com/dhfmzk)
 
 ### 🔭 I’m currently working on ...
-- Inha Univ CSE student. (final semester)
+- devCAT logic programmer.
 
 ### 🌱 I’m currently learning ...
 - Game Dev and Video Editor
-- Unity 3D (UniRx lover but move to UniTask)
-- Editing art resource (Beginner level)
-- Python, Java, Node.js
+- Unity 3D
+- Unreal Engine
+- AI tools for game dev
 
 ### 📫 How to reach me: ...
 - Facebook: https://www.facebook.com/profile.php?id=100008109283648
