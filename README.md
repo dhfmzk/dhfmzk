@@ -11,8 +11,5 @@
 - Unreal Engine
 - AI tools for game dev
 
-### 📫 How to reach me: ...
-- Facebook: https://www.facebook.com/profile.php?id=100008109283648
-- Instagram: https://www.instagram.com/dhfmzk_/
-- LinkedIn: https://www.linkedin.com/in/%EC%83%81%ED%98%84-%EA%B9%80-746574121/
-- Email: studio.orca@kakao.com  
+### 🏗️ I’m...
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
